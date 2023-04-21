@@ -1,0 +1,1 @@
+<iframe src="https://giphy.com/embed/YPDhvEAhPMzlfdICwq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bethesda-fallout-76-invited-YPDhvEAhPMzlfdICwq">via GIPHY</a></p>
