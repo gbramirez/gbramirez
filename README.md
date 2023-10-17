@@ -4,7 +4,7 @@
 
 <h1 align = "center">
     My name is Brian.<br>
-    I am a cloud developer specializing in Oracle tech.
+    I am a database application developer.
 </h1>
 <hr>
 <pre>
